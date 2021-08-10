@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hassoun3h
 - 👀 I’m interested in Ethical Hacking, Penetration Testing, Vulnerability Management, and Threat Modeling
-- 🌱 I’m currently learning Splunk SIEM, Incident Response and Digital Forensics
+- 🌱 I’m currently learning the MITRE ATT&CK Framework and Privilege Escalation
 - 💞️ I’m looking to collaborate on any Python or Cybersecurity projects
 - 📫 How to reach me hassoun3h@protonmail.com
 
